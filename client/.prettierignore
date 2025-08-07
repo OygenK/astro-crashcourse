@@ -1,0 +1,16 @@
+# Ignore artifacts:
+build
+coverage
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+**/.git
+**/.svn
+**/.svg
+**/.hg
+**/node_modules
